@@ -12,7 +12,7 @@ public class Snowflake {
 	public static void main(String[] args) {
 
 		// #1. Make a new Robot
-
+Robot c3po = new Robot;
 
 		// #2. Set your robot’s position to x=300 and y=300
 
@@ -53,6 +53,11 @@ public class Snowflake {
 			
 			// #14. set the pen color to black
 				
+		
+	}
+
+	private static void Robot() {
+		// TODO Auto-generated method stub
 		
 	}
 
